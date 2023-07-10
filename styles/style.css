@@ -43,6 +43,7 @@ font-weight: 600;
 main{
     padding: 130px 230px;
 }
+/* failure section */
 .lady-part{
     display: flex;
     gap: 40px;
@@ -55,15 +56,34 @@ font-size: 40px;
 font-weight: 700;
 
 }
-    
+   
 .about-failure{
     padding: 24px 0 0 130px;
 }
 .failure-desceription{
-    color:  #444343;
+color:  #444343;
 font-family: Work Sans;
 font-size: 16px;
-
 font-weight: 400;
 
 }
+/* plan section */
+.plan-title{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.plan-section{
+    display: flex;
+    gap: 100px;
+    padding: 0 250px 150px 150px ;
+    
+}
+.plan {
+    padding: 0 35px 0 30px;
+}
+
+
+
+
+
