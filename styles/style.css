@@ -43,3 +43,27 @@ font-weight: 600;
 main{
     padding: 130px 230px;
 }
+.lady-part{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+}
+.section-title{
+    color:  #151414;
+font-family: Work Sans;
+font-size: 40px;
+font-weight: 700;
+
+}
+    
+.about-failure{
+    padding: 24px 0 0 130px;
+}
+.failure-desceription{
+    color:  #444343;
+font-family: Work Sans;
+font-size: 16px;
+
+font-weight: 400;
+
+}
